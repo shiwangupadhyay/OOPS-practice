@@ -8,6 +8,13 @@
     >debugging
     >colab
 5. End to End project
+    >function vs method
+    >magic or dunder or special method
+    >self -- object itself is self 
+    >you can create an attributes outside class also
+
     >encapsulation
     >getter and setter
     >static method
+
+    >inheritence
