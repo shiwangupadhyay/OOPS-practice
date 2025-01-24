@@ -26,4 +26,8 @@
 
     >Super keyword(used only inside class, can not access variables/attributes, used only inside child class)
     
-    >type of inheritence - 1. single inheritence | 2. multilevel | 3. hierarchiel | 4. multiple <diamond problem> | 5. hybrid
+    >type of inheritence - 1. single inheritence - normal inheritance
+    2. multilevel - base class is inherited by child class, then child class is also inherited by other class(grandparent-parent-child)
+    3. hierarchiel - a base class is inherited by more than one child class(parent - child1,child2)
+    4. multiple <diamond problem> - a child class is inheriting from two classes(both of which are inheriting from same class), 
+    5. hybrid - all type of inheritance is used
